@@ -1,5 +1,7 @@
 #######################################
 # Syntax Coloring Map For BLINK
+# Blink Library version 2.0
+# extend some functions
 #######################################
 
 #######################################
@@ -13,6 +15,8 @@ Blink	KEYWORD1
 #######################################
 
 update	KEYWORD2
+on		KEYWORD2
+off		KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
